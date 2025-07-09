@@ -1,1 +1,1 @@
-# skillcraft-task02-stopwatch
+# skillcraft-task02-stopwatch-app
